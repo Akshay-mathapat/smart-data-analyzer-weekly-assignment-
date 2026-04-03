@@ -116,7 +116,7 @@ streamlit run app.py
 
 ## 🌐 Live Demo (Optional)
 
-👉 Add your deployed link here:
+👉 Add your deployed link here:https://akshay-mathapat-smart-data-analyzer-weekly-assignmen-app-et9tpm.streamlit.app/
 
 ```
 https://your-app-url.streamlit.app
